@@ -1,7 +1,9 @@
 # :mortar_board: MNU_CE_2020_Capstone_Design_Project
 2020 국립목포대학교 컴퓨터공학과 캡스톤 디자인 6조
 
-:eyes: JSP와 LSTM 모델을 활용한 수요 예측 모니터링 웹사이트
+<br>
+
+:eyes: JSP와 LSTM 모델을 활용한 수요 예측 시스템
 
 <br>
 <br>
